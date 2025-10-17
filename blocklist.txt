@@ -1,0 +1,4 @@
+# Personal Blocklist by Double Jz
+# Content added to this list has been manually verified, and is updated irregularly
+
+127.0.0.1 yt.moatads.com
